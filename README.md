@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ewan-gerken
 - 👀 I’m interested in genetics, neuroscience, biochemistry
-- 🌱 I’m currently learning basic coding in R for use in bioinformatics and statistical analysis
+- 🌱 Amateur R coder, primarily for use in bioinformatics and statistical analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email me at ewan.gerken@adelaide.edu.au
 
