@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ewan-gerken
-- 👀 I’m interested in genetics, neuroscience, biochemistry
+- 👀 I’m interested in genetics, neuroscience, molecular biology
 - 🌱 Amateur R coder, primarily for use in bioinformatics and statistical analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email me at ewan.gerken@adelaide.edu.au
